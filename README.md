@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)]
 
 <h1 align="center">Hi 👋, I'm LakshmiNithin Kotte</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lakshmi nithin kotte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/LakshmiNithinK7?t=0V0Dc39Qd7tTcfMBXlWDIA&s=08" height="30" width="40" /></a>
+<a href="https://twitter.com/lakshmi nithin kotte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshmi nithin kotte" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lakshmi-nithin-kotte-b19416226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lakshmi-nithin-kotte-b19416226" height="30" width="40" /></a>
 <a href="https://instagram.com/nithin_naidu_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nithin_naidu_k" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/lakshminithink" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lakshminithink" height="30" width="40" /></a>
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niithii&show_icons=true&locale=en" alt="niithii" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niithii&" alt="niithii" /></p>
+
